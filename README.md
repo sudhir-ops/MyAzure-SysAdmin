@@ -1,2 +1,19 @@
 # MyAzure-SysAdmin
 This Repository is Created to showcase my Azure System Admin Skills. Below are the projects I covered as part of Azure System Administrator
+01. Manage_Azure_AD_Identities
+02. Manage_Subscriptions_and_RBAC
+03. Manage_Governance_via_Azure_Policy
+04. Manage_Azure_Resources_by_Using_the_Azure_Portal
+05. Manage_Azure_Resources_by_Using_ARM_Templates
+06. Manage_Azure_Resources_by_Using_Azure_PowerShell
+07. Manage_Azure_Resources_by_Using_Azure_CLI
+08. Implement_Virtual_Networking
+09. Implement_Intersite_Connectivity
+10. Implement_Network_Traffic_Management
+11. Manage_Azure_Storage
+12. Manage_Virtual_Machines
+13. Implement_Web_Apps
+14. Implement_Azure_Container_Instances
+15. Implement_Azure_Kubernetes_Service
+16. Implement_Data_Protection
+17. Implement_Monitoring
