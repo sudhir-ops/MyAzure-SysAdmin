@@ -15,13 +15,21 @@ This project focuses on architecting and implementing a simple web site end to e
 
 Resources/Topics covered as part of this Lab
 ·	Resource Group
+
 ·	Virtual Machine
+
 ·	Security groups
+
 ·	Apache Web server
+
 ·	Power shell
+
 ·	Virtual network
+
 ·	subnets
+
 ·	OS disks
+
 ·	Network interface
 ·	Ports:http,ssh
 ·	Application gateway(load balancer)
