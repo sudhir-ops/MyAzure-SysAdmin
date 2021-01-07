@@ -13,7 +13,8 @@ This project focuses on architecting and implementing a simple web site end to e
 4. The endpoint of the traffic manager is linked with the DNS zone where we also need to link our domainname (created using freenom website) to the DNS zone.
 5. Finally the name servers created in the DNS zone must be copied and pasted in name servers of the domain name which will be present in the website where the domain name was      created.
 
-Resources/Topics covered as part of this Lab
+<h2>Resources/Topics covered as part of this Lab</h2>
+
 ·	Resource Group
 
 ·	Virtual Machine
@@ -31,11 +32,17 @@ Resources/Topics covered as part of this Lab
 ·	OS disks
 
 ·	Network interface
+
 ·	Ports:http,ssh
+
 ·	Application gateway(load balancer)
+
 ·	Public ip addresses
+
 ·	Traffic manager 
+
 ·	DSN zone
+
 ·	Name servers
 
 For detailed instructions on how to accomplish above steps kindly refer file End to end website hosting-Project 1.docx
