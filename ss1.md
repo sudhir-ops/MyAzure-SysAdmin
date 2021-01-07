@@ -1,4 +1,4 @@
-WEBSITE HOSTING USING VIRTUAL MACHINES AND APPLICATION GATEWAY
+<h1>WEBSITE HOSTING USING VIRTUAL MACHINES AND APPLICATION GATEWAY</h1>
 
 
 Project Overview
@@ -14,21 +14,21 @@ The endpoint of the traffic manager is linked with the DNS zone where we also ne
 Finally the name servers created in the DNS zone must be copied and pasted in name servers of the domain name which will be present in the website where the domain name was created.
 
 Resources/Topics covered as part of this Lab
-·	Resource Group
-·	Virtual Machine
-·	Security groups
-·	Apache Web server
-·	Power shell
-·	Virtual network
-·	subnets
-·	OS disks
-·	Network interface
-·	Ports:http,ssh
-·	Application gateway(load balancer)
-·	Public ip addresses
-·	Traffic manager 
-·	DSN zone
-·	Name servers
+Â·	Resource Group
+Â·	Virtual Machine
+Â·	Security groups
+Â·	Apache Web server
+Â·	Power shell
+Â·	Virtual network
+Â·	subnets
+Â·	OS disks
+Â·	Network interface
+Â·	Ports:http,ssh
+Â·	Application gateway(load balancer)
+Â·	Public ip addresses
+Â·	Traffic manager 
+Â·	DSN zone
+Â·	Name servers
 
 For detailed instructions on how to accomplish above steps kindly refer file End to end website hosting-Project 1.docx
 
